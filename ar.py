@@ -1,0 +1,10 @@
+a=10
+b=5
+sum=a+b
+print(sum)
+dif=a-b
+print(dif)
+mul=a*b
+print(mul)
+div=a/b
+print(div)
